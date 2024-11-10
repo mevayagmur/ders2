@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    int sayi;
+    printf("kodu kaç kez yazdırmak istersiniz:");
+    scanf("%d",&sayi);
+    
+    for(int dongu=0;dongu<sayi;dongu++)
+    
+    printf("merhaba\n");
+    return 0;
+}
