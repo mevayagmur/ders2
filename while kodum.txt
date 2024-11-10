@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    int deger=14;
+    int dongu=0;
+    while(dongu<=deger)
+    {
+        printf("merhaba!!!\n");
+        dongu++;
+    }
+    return 0;
+}
